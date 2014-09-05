@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="diffmk-interruptable:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/diffmk_interruptable_jar</output-path>
+    <root id="archive" name="diffmk-interruptable.jar">
+      <element id="module-output" name="diffmk-interruptable" />
+    </root>
+  </artifact>
+</component>
